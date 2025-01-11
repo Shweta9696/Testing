@@ -1,0 +1,10 @@
+1. folder create -> git init (only one time)
+
+2. file/folder(code write) -> git add "filename/foldername" , git add .
+3. git status
+4. git commit -m "msg"
+5. git push
+
+
+git log
+
